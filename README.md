@@ -26,7 +26,7 @@ HTML5
 CSS3 (Animations, Transforms, Transitions)
 
 📁 File Structure
-text
+text                                                                                                                                                                            
 /
 ├── index.html          # Main HTML file
 ├── style.css           # CSS styles and animations
