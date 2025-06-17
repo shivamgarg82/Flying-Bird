@@ -54,9 +54,9 @@ body{
 
 @keyframes gifAnimation{
     from{
-        background-image: url("./bird1.png");
+        background-image: url("./Bird_1.png");
     }
     to{
-        background-image: url("./bird2.png");
+        background-image: url("./Bird_2.png");
     }
 }
