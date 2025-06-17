@@ -27,9 +27,9 @@ CSS3 (Animations, Transforms, Transitions)
 
 📁 File Structure
 text                                                                                                                                                                            
-/
-├── index.html          # Main HTML file
-├── style.css           # CSS styles and animations
+/                                                                                                                                                                                          
+├── index.html              # Main HTML file      
+├── style.css                # CSS styles and animations                                                                                                    
 ├── background.avif     # Card background image
 ├── bird1.png           # Bird animation frame 1
 ├── bird2.png           # Bird animation frame 2
