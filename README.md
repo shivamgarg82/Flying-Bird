@@ -1,11 +1,13 @@
-Card Hover Animation with Flying Bird 🐦✨
-https://preview.gif (Replace with actual preview image or gif)
+# Card Hover Animation with Flying Bird 🐦✨
+
+![Screenshot 2025-06-17 130127](https://github.com/user-attachments/assets/16b8148f-e862-4c5b-aa9a-1705dc4513af)
+
 
 📝 Description
 A lightweight, interactive card component featuring a 3D tilt effect and a flying bird animation that activates on hover. Built with pure CSS (no JavaScript) for smooth performance.
 
 🎥 Demo
-Live Demo (Add your GitHub Pages link or hosted demo URL here)
+Live Demo https://flyingbir.netlify.app
 
 ✨ Features
 Pure CSS animations (no JavaScript)
@@ -32,7 +34,10 @@ text
 ├── bird1.png           # Bird animation frame 1
 ├── bird2.png           # Bird animation frame 2
 └── README.md           # This file
+
+
 🚀 Getting Started
+
 Prerequisites
 Modern web browser (Chrome, Firefox, Safari, Edge)
 
@@ -40,7 +45,7 @@ Installation
 Clone the repository:
 
 bash
-git clone https://github.com/your-username/card-hover-animation.git
+git clone https://github.com/shivamgarg82/Flying-Bird.git
 Open index.html in your browser
 
 🎨 Customization
