@@ -12,7 +12,7 @@ Live Demo https://flyingbir.netlify.app
 ✨ Features
 Pure CSS animations (no JavaScript)
 
-3D card tilt effect on hover
+3D card tilt effect on hover  
 
 Animated flying bird with wing flapping
 
@@ -23,7 +23,7 @@ Lightweight and performant
 🛠️ Technologies
 HTML5
 
-CSS3 (Animations, Transforms, Transitions)
+CSS3 (Animations, Transforms, Transitions) 
 
 📁 File Structure
 text                                                                                                                                                                            
