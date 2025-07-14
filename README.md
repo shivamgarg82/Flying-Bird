@@ -9,7 +9,7 @@ A lightweight, interactive card component featuring a 3D tilt effect and a flyin
 🎥 Demo
 Live Demo https://flyingbir.netlify.app
 
-✨ Features
+✨ Features 
 Pure CSS animations (no JavaScript)
 
 3D card tilt effect on hover  
